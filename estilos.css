@@ -1,0 +1,80 @@
+
+body{
+   box-sizing: border-box; font-family: Arial;
+}
+
+#login{
+   background: #DF5608;
+   color: #ffffff;
+   padding:10px;
+   margin: 100px auto;
+   width: 400px;
+   background-position: center;
+   margin: 100px auto;
+   }   
+ 
+  
+   h1,label[for]{
+      text-align: center;
+   }
+ 
+   input[type=text],[type=password]{
+      padding: 10px;
+      width: 300px;
+      
+   }
+
+   input[type="submit"]{
+      border: 0px;
+      background-color: #FF8000;
+      color: #ffffff;
+      background-position: center;
+   }
+      
+   input[type=button]{
+      border: 0px;
+      background-color: #FF8000;
+      color: #ffffff;
+   } 
+
+   label[for]{
+      text-align: center;
+   }
+
+   a[href]{
+      border: 0px;
+      background-color: #FF8000;
+      color: #ffffff;
+
+   }
+   form{
+      background-position: center;
+      width: 1250px ;
+      height: 300px ;
+      margin: 50px auto;
+      background: #DF5608;
+      color: #ffffff;
+   }
+ 
+   #dv_1{
+      background: #DF5608;
+      color: #ffffff;
+      padding:10px;
+      margin: 100px auto;
+      width: 400px;
+      background-position: center;
+      margin: 100px auto;
+   }
+
+   .contenedorDeTablas{
+       font-size: 10px;
+   }
+
+   .contenedor_reg{
+      background-position: center;
+   }
+
+   /* #btn_datos,#btn_campana{
+      justify-content: center;
+   } */
+
